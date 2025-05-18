@@ -1,4 +1,4 @@
-# Camp_Bot 🌅 Camp Bot [v1.9.0]
+# Camp_Bot 🌅 Camp Bot [v1.0.9]
 
 ![Demo](https://i.imgur.com/uW631d1.jpeg)
 
